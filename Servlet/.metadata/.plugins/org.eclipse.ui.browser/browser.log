@@ -1,0 +1,5 @@
+
+Oct 22, 2023 09:32:34.87 NEW SESSION
+Oct 22, 2023 09:32:34.87 [31276:7304:1022/093234.866:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 22, 2023 09:33:04.14 [31276:7304:1022/093304.149:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 22, 2023 09:33:42.86 [31276:29936:1022/093342.864:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
