@@ -1,7 +1,0 @@
-package com.example.servlets;
-
-import javax.servlet.Servlet;
-
-public class Servlet1 implements Servlet{
-
-}
